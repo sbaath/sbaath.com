@@ -1,1 +1,5 @@
 theme: jekyll-theme-minimal
+title: Simon Arnling Baath's home on the internet
+description: Magnus frater spectat te...
+show_downloads: false # ["true" or "false" to indicate whether to provide a download URL]
+# google_analytics: [Your Google Analytics tracking ID]
